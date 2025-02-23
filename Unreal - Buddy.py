@@ -2,6 +2,15 @@ import customtkinter as ctk
 from configparser import ConfigParser
 import subprocess  # Para ejecutar Unreal.exe
 from PIL import Image  # Para cargar la imagen del banner
+import sys
+import os
+
+# Función para obtener la ruta correcta de los archivos
+def resource_path(relative_path):
+    """ Obtiene la ruta del archivo, compatible con PyInstaller """
+    if hasattr(sys, '_MEIPASS'):  # Si el programa está en un exe
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.abspath(relative_path)  # Si se ejecuta como .py
 
 # Configuración inicial de CustomTkinter (modo oscuro)
 ctk.set_appearance_mode("Dark")
@@ -74,7 +83,12 @@ def create_label_frame(master, title, text_color="#6ec291", **kwargs):
 
 root = ctk.CTk()
 root.title("Unreal - Buddy System Coop - Configurator")
-root.iconbitmap("ico/unreal_logo_w.ico")  # Establecer el ícono
+
+# Ruta del icono y banner
+icon_path = resource_path("ico/unreal_logo_w.ico")
+banner_path = resource_path("ico/unreal_Banner.png")
+
+root.iconbitmap(icon_path)  # Establecer el ícono
 root.geometry("600x950")
 ctk.set_appearance_mode("dark") # Modo oscuro
 ctk.set_default_color_theme("green")
@@ -85,12 +99,13 @@ scrollable_frame = ctk.CTkScrollableFrame(root, fg_color=base_color)
 scrollable_frame.pack(fill="both", expand=True, padx=20, pady=20)
 
 try:
-    banner_pil = Image.open("ico/unreal_Banner.png")
+    banner_pil = Image.open(banner_path)
     banner_img = ctk.CTkImage(banner_pil, size=(banner_pil.width, banner_pil.height))
-    banner_label = ctk.CTkLabel(scrollable_frame, image=banner_img, text="", fg_color=base_color)
+    banner_label = ctk.CTkLabel(scrollable_frame, image=banner_img, text="", fg_color=base_color)  # Usa base_color si lo tienes definido
 except Exception as e:
     print("No se pudo cargar la imagen del banner:", e)
-    banner_label = ctk.CTkLabel(scrollable_frame, text="Unreal - Buddy System Coop - Configurator", font=("Arial", 20), fg_color=base_color)
+    banner_label = ctk.CTkLabel(scrollable_frame, text="Unreal - Buddy System Coop - Configurator", font=("Arial", 20), fg_color=base_color)  # Usa base_color
+
 banner_label.pack(pady=33, padx=70)
 
 button_frame = ctk.CTkFrame(scrollable_frame, fg_color=base_color)
