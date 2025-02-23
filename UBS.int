@@ -1,0 +1,7 @@
+[Public]
+Object=(Name=UBS.UBSMut,Class=Class,MetaClass=Engine.Mutator,Description="Unreal Buddy System,Your own private team-mate")
+Preferences=(Caption="Mutators",Parent="Advanced Options")
+Preferences=(Caption="UBS",Parent="Mutators")
+Preferences=(Caption="UnrealBuddy",Parent="UBS",Class=UBS.UnrealBuddy,Immediate=True)
+Preferences=(Caption="UnrealBuddyMut",Parent="UBS",Class=UBS.UBSMut,Immediate=True)
+Preferences=(Caption="UnrealBuddyItem",Parent="UBS",Class=UBS.UnrealBuddyItem,Immediate=True)
