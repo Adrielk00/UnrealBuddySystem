@@ -1,7 +1,7 @@
 # UNREAL - Buddy System Coop
 
 <p align="center">
-<img title="infect" src="https://i.imgur.com/2IO7oS5.png">
+<img title="Logo" src="https://i.imgur.com/2IO7oS5.png">
 
 <p align="center">
   <img src="https://i.imgur.com/w5Qt9Sr.png" width="200" />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-<img title="infect" src="https://i.imgur.com/hybBZiG.png">
+<img title="Divisor_00" src="https://i.imgur.com/hybBZiG.png">
 
 Unreal Gold - Buddy System _(Interface Complementary Cooperative Bot)_<br>
 Bot Configurator for cooperative use in Unreal Gold<br>
@@ -18,7 +18,7 @@ Bot Configurator for cooperative use in Unreal Gold<br>
 This project provides a configuration tool to customize bots in the cooperative mode of Unreal Gold. It allows you to select the companion's model, skin, favorite weapons, inventory preferences, HUD settings, respawns, health, behavior, and more. All taking advantage of the mutator made by Jackrabbit. It is a complete solution for creating a more personalized and fun cooperative gaming experience.<br><br><br>
 
 
-<img title="infect" src="https://i.imgur.com/sToHky4.png">
+<img title="Divisor_01" src="https://i.imgur.com/sToHky4.png">
 
 
 ## FEATURES:
@@ -31,9 +31,11 @@ This project provides a configuration tool to customize bots in the cooperative 
 * [+] AI behavior: Customize the bots' AI to decide whether they can attack Nalis and other bots.<br><br><br>
 
 ## COMMANDS:
-<img src="https://github.com/user-attachments/assets/865b3da2-4296-4582-85ad-a041f4bdf145" width="200">
-<img src="https://github.com/user-attachments/assets/1353d1fd-d863-4161-ac29-7d95aceaf66d" width="200">
-<img src="https://github.com/user-attachments/assets/dc911bb5-5d5e-4d34-a1b0-8b8c06ffaace" width="200"><br><br>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/865b3da2-4296-4582-85ad-a041f4bdf145" width="200">
+  <img src="https://github.com/user-attachments/assets/1353d1fd-d863-4161-ac29-7d95aceaf66d" width="200">
+  <img src="https://github.com/user-attachments/assets/dc911bb5-5d5e-4d34-a1b0-8b8c06ffaace" width="200">
+</div><br><br>
 
 **"say Wait Here"** - tells the buddy to wait at the current spot until you tell them to follow again.<br>
 **"say Follow Me"** - tells the buddy to follow you.<br>
@@ -55,7 +57,7 @@ This project provides a configuration tool to customize bots in the cooperative 
 * Apply the launcher along with the mutators inside the System (or System64) folder of Unreal Gold. Launch the companion configurator, save preferences, and then run Unreal from the same launcher (Running it from the configuration launcher is optional).<br>
 
 <p align="center">
-<img title="infect" src="https://i.imgur.com/aNa0PsO.png">
+<img title="Green_Bar_00" src="https://i.imgur.com/aNa0PsO.png">
 
 <p align="center">
   <a href="https://oldunreal.com/" target="_blank">
@@ -71,7 +73,7 @@ This project provides a configuration tool to customize bots in the cooperative 
 <br><br>A huge thank you to Old Unreal for the incredible maintenance of this masterpiece over the years. Also, to the UnrealSP community, whose forums have been a cornerstone for fans. And obviously Jackrabbit. Lastly, here’s a direct link to one of the most ambitious Unreal projects: UNREAL REDUX.<br>
 
 <p align="center">
-<img title="infect" src="https://i.imgur.com/aNa0PsO.png">
+<img title="Green_Bar_01" src="https://i.imgur.com/aNa0PsO.png">
 
 
 ------------------------
@@ -79,7 +81,7 @@ This project provides a configuration tool to customize bots in the cooperative 
 
 
 <p align="center">
-<img title="infect" src="https://i.imgur.com/2IO7oS5.png">
+<img title="Logo" src="https://i.imgur.com/2IO7oS5.png">
 
 <p align="center">
   <img src="https://i.imgur.com/7rcXqFx.png" width="200" />
@@ -88,14 +90,14 @@ This project provides a configuration tool to customize bots in the cooperative 
 </p>
 
 <p align="left">
-<img title="infect" src="https://i.imgur.com/ZCWkirw.png">
+<img title="Divisor_00" src="https://i.imgur.com/ZCWkirw.png">
 
 *Unreal Gold* - Buddy System _(Configurador de Bot cooperativo complementario)_<br>
 
 Este proyecto proporciona una herramienta de configuración para personalizar bots en el modo cooperativo del juego Unreal Gold. Permite seleccionar el modelo de compañero, su skin, armas favoritas, preferencias de inventario, configuraciones de HUD, reapariciones, salud, comportamiento, y más. Todo aprochechandose del mutador hecho por *Jackrabbit*. Es una solución completa para crear una experiencia de juego cooperativa más personalizada y divertida.<br><br><br>
 
 
-<img title="infect" src="https://i.imgur.com/hci75qK.png">
+<img title="Divisor_01" src="https://i.imgur.com/hci75qK.png">
 
 ## CARACTERISTICAS:
 * [+] Selección de modelo del bot: Elige el modelo 3D y skin de tu compañero.<br>
@@ -107,9 +109,11 @@ Este proyecto proporciona una herramienta de configuración para personalizar bo
 * [+] Comportamiento de la IA: Personaliza la inteligencia artificial de los bots para decidir si pueden o no atacar a los Nalis y los bots.<br><br><br>
 
 ## COMANDOS:
-<img src="https://github.com/user-attachments/assets/865b3da2-4296-4582-85ad-a041f4bdf145" width="200">
-<img src="https://github.com/user-attachments/assets/1353d1fd-d863-4161-ac29-7d95aceaf66d" width="200">
-<img src="https://github.com/user-attachments/assets/dc911bb5-5d5e-4d34-a1b0-8b8c06ffaace" width="200"><br><br>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/865b3da2-4296-4582-85ad-a041f4bdf145" width="200">
+  <img src="https://github.com/user-attachments/assets/1353d1fd-d863-4161-ac29-7d95aceaf66d" width="200">
+  <img src="https://github.com/user-attachments/assets/dc911bb5-5d5e-4d34-a1b0-8b8c06ffaace" width="200">
+</div><br><br>
 
 **"say Wait Here"** - le dice al compañero que espere en el lugar actual hasta que le digas que te siga nuevamente.<br>
 **"say Follow Me"** - le dice al compañero que te siga.<br>
@@ -130,7 +134,7 @@ Este proyecto proporciona una herramienta de configuración para personalizar bo
 * Aplica el ejecutador juntos a los mutadores dentro de la carpeta System (O System64) de Unreal Gold. Inicia el configurador de compañero, guarda las preferencias y luego ejecuta Unreal desde el mismo launcher (Ejecutarlo desde el launcher de configuracion es opcional)<br> 
 
 <p align="center">
-<img title="infect" src="https://i.imgur.com/aNa0PsO.png">
+<img title="Green_Bar_00" src="https://i.imgur.com/aNa0PsO.png">
 
 <p align="center">
   <a href="https://oldunreal.com/" target="_blank">
@@ -146,4 +150,4 @@ Este proyecto proporciona una herramienta de configuración para personalizar bo
 <br><br>Un enorme agradecimiento a Old Unreal por el increíble mantenimiento de esta obra de arte a lo largo de los años. También a la comunidad de UnrealSP, cuyos foros han sido un pilar fundamental para los fanáticos. Y obviamente a Jackrabbit. Por último, aquí tienes un enlace directo a uno de los proyectos más ambiciosos de Unreal: UNREAL REDUX.<br>
 
 <p align="center">
-<img title="infect" src="https://i.imgur.com/aNa0PsO.png">
+<img title="Green_Bar_01" src="https://i.imgur.com/aNa0PsO.png">
