@@ -68,7 +68,7 @@ This project provides a configuration tool to customize bots in the cooperative 
     <img src="https://i.imgur.com/RUdAF58.png" width="200" />
   </a>
 </p>
-<br><br>A huge thank you to Old Unreal for the incredible maintenance of this masterpiece over the years. Also, to the UnrealSP community, whose forums have been a cornerstone for fans. Lastly, here’s a direct link to one of the most ambitious Unreal projects: UNREAL REDUX.<br>
+<br><br>A huge thank you to Old Unreal for the incredible maintenance of this masterpiece over the years. Also, to the UnrealSP community, whose forums have been a cornerstone for fans. And obviously Jackrabbit. Lastly, here’s a direct link to one of the most ambitious Unreal projects: UNREAL REDUX.<br>
 
 <p align="center">
 <img title="infect" src="https://i.imgur.com/aNa0PsO.png">
@@ -143,7 +143,7 @@ Este proyecto proporciona una herramienta de configuración para personalizar bo
     <img src="https://i.imgur.com/RUdAF58.png" width="200" />
   </a>
 </p>
-<br><br>Un enorme agradecimiento a Old Unreal por el increíble mantenimiento de esta obra de arte a lo largo de los años. También a la comunidad de UnrealSP, cuyos foros han sido un pilar fundamental para los fanáticos. Por último, aquí tienes un enlace directo a uno de los proyectos más ambiciosos de Unreal: UNREAL REDUX.<br>
+<br><br>Un enorme agradecimiento a Old Unreal por el increíble mantenimiento de esta obra de arte a lo largo de los años. También a la comunidad de UnrealSP, cuyos foros han sido un pilar fundamental para los fanáticos. Y obviamente a Jackrabbit. Por último, aquí tienes un enlace directo a uno de los proyectos más ambiciosos de Unreal: UNREAL REDUX.<br>
 
 <p align="center">
 <img title="infect" src="https://i.imgur.com/aNa0PsO.png">
